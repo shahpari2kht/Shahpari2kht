@@ -10,13 +10,13 @@
 
 ### 🧭 English
 Hi there!  
-I’m **Parisa Mohammadzadeh** — a lifelong learner, explorer, and dreamer of a smarter, kinder world.
+I’m **Parisa Mohammadzadeh**  a lifelong learner, explorer, and dreamer of a smarter, kinder world.
 
 - 🎓 Former petroleum engineering student, mathematics fan, and data explorer.
 - 👩‍🏫 My path: mathematics ➡️ petroleum engineering ➡️ coding ➡️ teaching ➡️ volunteering ➡️ always learning!
-- 💡 My strength? Turning diverse, real-world experiences & challenges into creative solutions.
+- 💡 My strength? Turning diverse, real world experiences & challenges into creative solutions.
 - 🤝 I thrive collaborating, but I also enjoy diving deep into code and analysis.
-- 🪄 My big dream: to build an intelligent AI assistant—my own “Merlin”—that inspires and enhances lives.
+- 🪄 My big dream: to build an intelligent AI assistant my own “Merlin” that inspires and enhances lives.
 - 🌎 My aim: to make an impact at the intersection of data, technology, and humanity.
 
 > **“I see my diverse journey as my superpower, not a weakness.”**
@@ -34,7 +34,7 @@ Let’s connect and create something meaningful! 🚀
 - 👩‍🏫 از مهندسی نفت تا آموزش و داوطلبی با کودکان کار و تدریس در مناطق محروم، هر تجربه‌ای برام یک ماجراجویی تازه بوده.
 - 🤖 الان در مسیر علم داده‌ام، چون باور دارم می‌تونم با تحلیل داده‌ها دنیای واقعی رو بهتر ببینم و لمس کنم.
 - ✨ رویای من ساخت یک دستیار هوشمند و خلاقه («مرلین») که مرز بین خیال و عمل رو از بین می‌بره!
-- 🌱 هر چالشی باعث شده قوی‌تر، منعطف‌تر و خلاق‌تر باشم—یادگیری سریع و ترکیب تجربه‌ها نقطه قوتمه.
+- 🌱 هر چالشی باعث شده قوی‌تر، منعطف‌تر و خلاق‌تر باشم یادگیری سریع و ترکیب تجربه‌ها نقطه قوتمه.
 - 🎯 هدفم فقط دانشمند داده شدن نیست؛ می‌خوام زندگی خودم و دیگران رو ساده‌تر و انسانی‌تر کنم و اثر ماندگار بذارم.
 
 ---
@@ -47,8 +47,8 @@ Ich bin **Parisa Mohammadzadeh** – vielseitig, wissbegierig und voller Tatendr
 - 🧮 Mein Weg: Mathematik, Petroleum Engineering, IT, Lehren, Ehrenamt, Coding…
 - 💡 Persönliche Stärke: Verschiedene Erfahrungen verknüpfen, schnelle Problemlösung, kreative Ansätze.
 - 🤗 Ich arbeite gern im Team, kann aber auch analytisch & eigenständig ins Detail gehen.
-- 🚀 Mein Ziel: Mit Data Science innovative Tools (wie meinen Traum-Assistenten “Merlin”) entwickeln und echte Veränderungen bewirken.
-- ✨ Ich sehe meinen bunten Werdegang als Vorteil – alles, was ich gelernt habe, macht mich heute stärker.
+- 🚀 Mein Ziel: Mit Data Science innovative Tools (wie meinen Traum Assistenten “Merlin”) entwickeln und echte Veränderungen bewirken.
+- ✨ Ich sehe meinen bunten Werdegang als Vorteil   alles, was ich gelernt habe, macht mich heute stärker.
 
 Vernetzen wir uns!
 
@@ -59,7 +59,7 @@ Vernetzen wir uns!
 - 🇮🇷 **Kurdish** (Native)  
 - 🇮🇷 **Persian** (Native)  
 - 🇬🇧 **English** (*Intermediate*)  
-- 🇩🇪 **German** (*Upper-Intermediate / B2 Level – attended language courses, no official certificate*)  
+- 🇩🇪 **German** (*Upper-Intermediate / B2 Level  , attended language courses, no official certificate*)  
 - 🇦🇪 **Familiar with Arabic**  
 ---
 
